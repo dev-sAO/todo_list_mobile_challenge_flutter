@@ -20,4 +20,7 @@ flutter pub get
 
 ## Preview
 
-['Preview'](readme/preview.gif)
+<p align="center">
+<img src="readme/preview.gif" width="350"/>
+</p>
+
