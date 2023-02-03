@@ -1,16 +1,23 @@
-# nedoyschallenge
-
-A new Flutter project.
+# Todo List Mobile (Flutter) Challenge
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Clone the Project
+```git 
+git clone https://github.com/dev-sAO/todo_list_mobile_challenge_flutter.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Made a Pub Get
+```
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+
+
+### Debug it, and enjoy ☺️
+
+
+##Preview
+['App Preview']()
