@@ -12,12 +12,12 @@ git clone https://github.com/dev-sAO/todo_list_mobile_challenge_flutter.git
 ### Made a Pub Get
 ```
 flutter pub get
-
 ```
 
 
 ### Debug it, and enjoy ☺️
 
 
-##Preview
-['App Preview']()
+## Preview
+
+['Preview'](readme/preview.gif)
